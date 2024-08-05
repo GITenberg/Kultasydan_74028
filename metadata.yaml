@@ -1,0 +1,38 @@
+_repo: Kultasydan_74028
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+description: ''
+gutenberg_issued: '2024-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74028'
+language: fi
+pgterms:marc905: 20240702223522lagerlf
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aPorvoo :$bWSOY, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+- !lcsh 'Short stories, Swedish -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Kultasydän
+url: http://www.gutenberg.org/ebooks/74028
